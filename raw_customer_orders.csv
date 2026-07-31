@@ -1,0 +1,264 @@
+record_id,customer_name,email,region,signup_date,status,quantity,unit_price
+1,john smith,,EAST,2023-02-19,inactive,5,411.53
+2,ALICIA COLE,alicia.cole@example.com,west ,2023/03/30,Active,5,212.0
+3,sofia rossi,,South,2024-08-19,active,2,290.67
+4,david Kim,david.kim@example.com,Central,2023-05-28,inactive,,287.6
+5,sofia rossi,sofia.rossi@example.com,west ,2023-04-10,INACTIVE,4,284.36
+6,omar hassan,omar.hassan@example.com,north,2024/08/22,inactive,2,183.98
+7,sara Ali,sara.ali@example.com,South,2023/11/04,Pending,3,438.19
+8,Alicia Cole,alicia.cole@example.com,South,03/04/2024,Pending,4,379.78
+9,Alicia Cole,,north,2023/12/25,INACTIVE,-1,292.05
+10,Wei Zhang,wei.zhang@example.com,south,2023-03-08,pending,5,366.92
+11,Lucia Moreno,lucia.moreno@example.com,Central,31-01-2024,pending,2,16.17
+12,Mary Jones,mary.jones@example.com,north,10/22/2023,active,-1,370.49
+13,Priya  Nair,priya..nair@example.com,south,16-07-2024,inactive,-1,442.27
+14,omar hassan,omar.hassan@example.com,north,01/25/2024,pending,2,79.71
+15,john smith,john.smith@example.com,south,06-07-2023,,5,144.56
+16,sofia rossi,sofia.rossi@example.com,north,2024-06-11,active,-1,231.04
+17,Ben Turner,ben.turner@example.com,,2024/02/13,inactive,1,56.25
+18,TOM HARDY,tom.hardy@example.com,south,23-04-2023,active,5,302.36
+19,  Bob Lee,bob.lee@example.com,north,2023-01-27,Pending,2,437.79
+20,Carlos Ruiz,carlos.ruiz@example.com,north,2023-05-06,inactive,4,425.22
+21,Nina Petrova,nina.petrova@example.com,South,15-04-2023,active,,371.47
+22,john smith,john.smith@example.com,west ,01/06/2024,Pending,-1,346.58
+23,Alicia Cole,alicia.cole@example.com,Central,01/11/2024,Pending,5,181.07
+24,john smith,john.smith@example.com,west ,07/19/2023,Pending,2,410.07
+25,Mary Jones,mary.jones@example.com,north,2023-01-30,pending,2,396.11
+26,Carlos Ruiz,carlos.ruiz@example.com,south,24-12-2023,,4,44.87
+27,TOM HARDY,,south,2023/01/02,Pending,,455.05
+28,  Bob Lee,bob.lee@example.com,,2023/07/24,,,445.06
+29,Emma Wright,emma.wright@example.com,south,03/28/2023,inactive,2,89.15
+30,Lucia Moreno,,EAST,30-04-2024,Pending,1,82.18
+31,  Bob Lee,bob.lee@example.com,EAST,07/19/2023,inactive,5,18.86
+32,sofia rossi,sofia.rossi@example.com,north,2024/07/11,INACTIVE,,417.93
+33,Lucia Moreno,lucia.moreno@example.com,,05/28/2024,,1,268.25
+34,Priya  Nair,priya..nair@example.com,north,06/03/2023,,1,75.07
+35,john smith,,south,2023-04-19,,-1,128.0
+36,Lucia Moreno,lucia.moreno@example.com,north,2023/03/06,,5,166.18
+37,Wei Zhang,wei.zhang@example.com,south,2024/06/30,Pending,5,256.34
+38,Wei Zhang,,west ,04/03/2024,,3,211.24
+39,sara Ali,sara.ali@example.com,,06-08-2023,Active,2,393.05
+40,Carlos Ruiz,carlos.ruiz@example.com,EAST,2023/05/21,INACTIVE,4,113.7
+41,Priya  Nair,,west ,2024/03/17,active,3,172.86
+42,Carlos Ruiz,carlos.ruiz@example.com,north,2024/07/21,INACTIVE,3,
+43,Nina Petrova,nina.petrova@example.com,South,2023-08-23,Active,-1,46.61
+44,david Kim,david.kim@example.com,,2023/09/22,,5,78.94
+45,john smith,john.smith@example.com,South,02/28/2023,INACTIVE,1,215.53
+46,Wei Zhang,wei.zhang@example.com,South,2023-08-16,Pending,1,135.9
+47,Ben Turner,ben.turner@example.com,,2023-05-13,INACTIVE,1,265.82
+48,Wei Zhang,wei.zhang@example.com,north,26-07-2023,active,2,316.19
+49,ALICIA COLE,alicia.cole@example.com,EAST,2023-12-22,INACTIVE,1,
+50,Ben Turner,ben.turner@example.com,west ,05/01/2024,Pending,-1,467.65
+51,Mary Jones,mary.jones@example.com,,11/12/2023,Pending,-1,491.31
+52,david Kim,david.kim@example.com,,02/25/2023,INACTIVE,3,12.06
+53,MARY JONES,mary.jones@example.com,South,26-01-2024,pending,1,301.4
+54,Priya  Nair,priya..nair@example.com,Central,04-01-2023,inactive,5,185.25
+55,MARY JONES,mary.jones@example.com,Central,01/01/2024,active,4,5.53
+56,TOM HARDY,tom.hardy@example.com,west ,2023-01-06,Pending,4,135.76
+57,Emma Wright,emma.wright@example.com,north,11/08/2023,INACTIVE,-1,46.82
+58,Ivan Petrov,ivan.petrov@example.com,,2023/11/30,,,78.98
+59,ALICIA COLE,alicia.cole@example.com,,06/01/2024,pending,5,455.39
+60,john smith,john.smith@example.com,west ,2023-02-01,Active,1,70.88
+61,Lucia Moreno,,north,01/20/2023,pending,-1,
+62,ALICIA COLE,,South,2024-06-22,pending,-1,374.14
+63,Wei Zhang,wei.zhang@example.com,west ,07/30/2023,pending,4,371.22
+64,Alicia Cole,alicia.cole@example.com,south,2023-10-22,pending,1,310.4
+65,john smith,john.smith@example.com,Central,11/08/2023,pending,3,11.17
+66,  Bob Lee,bob.lee@example.com,west ,16-05-2024,pending,4,355.89
+67,  Bob Lee,bob.lee@example.com,west ,2023/03/29,INACTIVE,-1,13.66
+68,Lucia Moreno,lucia.moreno@example.com,Central,08/03/2023,inactive,,41.93
+69,Carlos Ruiz,carlos.ruiz@example.com,EAST,04-06-2024,Pending,2,444.0
+70,Mary Jones,mary.jones@example.com,,2023-06-12,Active,4,475.23
+71,david Kim,david.kim@example.com,,21-01-2024,INACTIVE,3,64.85
+72,Emma Wright,emma.wright@example.com,South,13-01-2023,active,4,130.34
+73,sofia rossi,sofia.rossi@example.com,South,14-03-2024,INACTIVE,1,427.86
+74,Nina Petrova,nina.petrova@example.com,EAST,2023/09/30,active,3,257.93
+75,omar hassan,omar.hassan@example.com,north,02/14/2024,,,
+76,Ivan Petrov,ivan.petrov@example.com,EAST,2023/10/21,pending,2,29.24
+77,omar hassan,omar.hassan@example.com,north,01-11-2023,INACTIVE,3,370.82
+78,sara Ali,sara.ali@example.com,Central,2024/07/24,inactive,1,64.27
+79,Mary Jones,,west ,2023/12/07,inactive,2,216.57
+80,john smith,john.smith@example.com,South,02-09-2023,INACTIVE,1,132.89
+81,omar hassan,omar.hassan@example.com,,06/20/2024,inactive,1,191.55
+82,sofia rossi,sofia.rossi@example.com,north,05/30/2024,active,4,50.84
+83,Lucia Moreno,lucia.moreno@example.com,,01/23/2023,INACTIVE,-1,20.96
+84,sofia rossi,sofia.rossi@example.com,south,2023/03/16,Active,5,465.47
+85,Lucia Moreno,lucia.moreno@example.com,west ,04/22/2023,,,81.42
+86,Lucia Moreno,lucia.moreno@example.com,South,2023-02-10,Pending,1,392.24
+87,Nina Petrova,nina.petrova@example.com,EAST,2023/09/15,pending,1,350.8
+88,sofia rossi,sofia.rossi@example.com,west ,09/25/2023,inactive,5,
+89,Lucia Moreno,lucia.moreno@example.com,Central,2023/09/06,INACTIVE,1,265.51
+90,Nina Petrova,nina.petrova@example.com,north,2023/07/18,Active,1,443.0
+91,omar hassan,omar.hassan@example.com,north,2024-05-19,active,3,349.43
+92,TOM HARDY,tom.hardy@example.com,north,2023-10-27,,3,106.58
+93,TOM HARDY,tom.hardy@example.com,west ,15-08-2023,inactive,5,381.43
+94,Priya  Nair,,west ,2024-03-03,inactive,4,474.64
+95,john smith,john.smith@example.com,EAST,2023-02-23,inactive,,96.13
+96,  Bob Lee,bob.lee@example.com,South,12/04/2023,active,,96.83
+97,Nina Petrova,nina.petrova@example.com,,18-01-2024,,1,224.01
+98,Carlos Ruiz,carlos.ruiz@example.com,,07/28/2024,Active,3,193.16
+99,omar hassan,omar.hassan@example.com,South,04/29/2024,Active,2,189.49
+100,Mary Jones,mary.jones@example.com,north,02/25/2024,pending,1,406.85
+101,Lucia Moreno,lucia.moreno@example.com,South,05-03-2023,,5,101.5
+102,Wei Zhang,wei.zhang@example.com,north,14-02-2023,Pending,3,374.49
+103,Ivan Petrov,ivan.petrov@example.com,South,2023-08-28,Active,-1,240.22
+104,Wei Zhang,wei.zhang@example.com,,05/20/2024,,-1,464.41
+105,Nina Petrova,nina.petrova@example.com,EAST,30-08-2023,Pending,-1,431.31
+106,Alicia Cole,alicia.cole@example.com,west ,06/13/2023,inactive,4,206.84
+107,john smith,john.smith@example.com,EAST,2023-04-18,inactive,1,136.12
+108,Lucia Moreno,lucia.moreno@example.com,EAST,2023/05/17,active,2,233.16
+109,  Bob Lee,bob.lee@example.com,Central,14-10-2023,INACTIVE,2,189.62
+110,Priya  Nair,,west ,07-06-2023,active,3,442.66
+111,Wei Zhang,wei.zhang@example.com,west ,06/22/2024,Pending,4,326.57
+112,  Bob Lee,bob.lee@example.com,north,2023/08/25,inactive,3,
+113,MARY JONES,mary.jones@example.com,west ,08/20/2024,Pending,-1,465.44
+114,Ivan Petrov,ivan.petrov@example.com,Central,2023-01-07,,3,320.54
+115,Carlos Ruiz,carlos.ruiz@example.com,north,02/15/2023,active,,
+116,TOM HARDY,,north,2023/12/02,,3,340.77
+117,MARY JONES,mary.jones@example.com,south,2024-05-10,Pending,,207.04
+118,Ben Turner,ben.turner@example.com,South,2023/06/17,pending,3,349.23
+119,omar hassan,omar.hassan@example.com,north,03-08-2024,INACTIVE,-1,
+120,Carlos Ruiz,carlos.ruiz@example.com,west ,02/19/2024,inactive,2,471.28
+121,Alicia Cole,alicia.cole@example.com,,2024/01/09,Pending,1,387.66
+122,Emma Wright,emma.wright@example.com,South,01/15/2024,Pending,5,77.21
+123,Alicia Cole,alicia.cole@example.com,South,05/17/2024,inactive,1,154.3
+124,Mary Jones,mary.jones@example.com,north,2024-02-02,Active,-1,452.59
+125,sara Ali,sara.ali@example.com,,2023/07/20,Pending,4,95.57
+126,Priya  Nair,,,05/07/2023,INACTIVE,2,127.29
+127,Ben Turner,ben.turner@example.com,north,2023-11-28,pending,-1,197.97
+128,Nina Petrova,nina.petrova@example.com,,08/19/2024,INACTIVE,4,215.74
+129,Priya  Nair,priya..nair@example.com,north,2024/05/16,Active,-1,121.45
+130,Priya  Nair,priya..nair@example.com,south,2023-04-20,inactive,1,68.59
+131,ALICIA COLE,alicia.cole@example.com,north,2023-05-14,Active,,461.45
+132,MARY JONES,mary.jones@example.com,,2023-05-20,pending,,429.25
+133,  Bob Lee,bob.lee@example.com,west ,18-05-2024,active,2,478.54
+134,sara Ali,sara.ali@example.com,South,26-12-2023,,3,83.59
+135,Lucia Moreno,lucia.moreno@example.com,EAST,2024/05/29,INACTIVE,5,108.12
+136,Carlos Ruiz,carlos.ruiz@example.com,north,2023/07/06,active,,84.81
+137,Emma Wright,emma.wright@example.com,EAST,2023-09-28,,-1,
+138,Lucia Moreno,lucia.moreno@example.com,South,2024/07/02,INACTIVE,4,370.27
+139,sofia rossi,sofia.rossi@example.com,EAST,2023-12-05,INACTIVE,,223.93
+140,Nina Petrova,nina.petrova@example.com,Central,22-08-2024,INACTIVE,2,367.85
+141,Ivan Petrov,ivan.petrov@example.com,,08-06-2024,inactive,2,448.29
+142,MARY JONES,mary.jones@example.com,north,03-01-2023,Active,5,155.35
+143,sofia rossi,sofia.rossi@example.com,Central,05/17/2023,Pending,2,186.29
+144,sara Ali,sara.ali@example.com,EAST,2023-04-09,inactive,-1,320.91
+145,Wei Zhang,wei.zhang@example.com,north,29-07-2024,Active,5,299.39
+146,Mary Jones,mary.jones@example.com,west ,2023-01-01,active,2,
+147,MARY JONES,mary.jones@example.com,South,07/18/2024,Active,5,75.42
+148,omar hassan,omar.hassan@example.com,EAST,2023-11-13,Pending,,
+149,Ben Turner,ben.turner@example.com,north,2024/03/23,inactive,2,44.84
+150,  Bob Lee,bob.lee@example.com,Central,2023-02-09,active,,171.08
+151,Wei Zhang,wei.zhang@example.com,north,2024/07/21,INACTIVE,3,344.44
+152,TOM HARDY,tom.hardy@example.com,South,01/16/2023,Pending,,133.88
+153,Priya  Nair,priya..nair@example.com,north,03-02-2024,active,-1,302.61
+154,Ben Turner,ben.turner@example.com,south,2024-06-27,inactive,,429.47
+155,Nina Petrova,,west ,2024-08-22,inactive,1,284.78
+156,  Bob Lee,bob.lee@example.com,EAST,2023-05-26,INACTIVE,,20.28
+157,Alicia Cole,,north,01/08/2024,Active,,409.69
+158,Emma Wright,emma.wright@example.com,South,07/30/2023,active,-1,
+159,Alicia Cole,alicia.cole@example.com,Central,04/13/2023,inactive,2,53.44
+160,john smith,john.smith@example.com,,22-01-2023,INACTIVE,,132.07
+161,john smith,john.smith@example.com,south,2023-10-22,,5,
+162,Carlos Ruiz,carlos.ruiz@example.com,south,02/19/2023,pending,5,358.62
+163,Priya  Nair,,,06/20/2024,Active,1,147.73
+164,Mary Jones,mary.jones@example.com,South,2023/07/08,inactive,5,298.31
+165,Priya  Nair,priya..nair@example.com,Central,08/08/2023,,,251.67
+166,Mary Jones,,South,01-12-2023,pending,,52.1
+167,john smith,john.smith@example.com,north,07-11-2023,active,2,216.89
+168,sara Ali,sara.ali@example.com,south,2024-06-28,active,2,177.5
+169,Lucia Moreno,lucia.moreno@example.com,north,2024/04/19,active,2,346.09
+170,Lucia Moreno,lucia.moreno@example.com,west ,16-07-2023,Pending,-1,154.25
+171,david Kim,david.kim@example.com,west ,01-12-2023,pending,2,84.66
+172,  Bob Lee,bob.lee@example.com,EAST,04/15/2023,pending,-1,195.2
+173,Nina Petrova,nina.petrova@example.com,,2023-07-20,INACTIVE,2,320.8
+174,Lucia Moreno,lucia.moreno@example.com,north,2024/02/13,Active,,348.25
+175,john smith,john.smith@example.com,EAST,2024-02-19,INACTIVE,4,371.77
+176,sofia rossi,sofia.rossi@example.com,,08/23/2023,,4,341.4
+177,Wei Zhang,wei.zhang@example.com,South,2023/09/06,inactive,3,358.01
+178,Mary Jones,mary.jones@example.com,south,02/24/2024,Active,1,447.77
+179,Mary Jones,mary.jones@example.com,South,09/15/2023,Active,2,84.62
+180,  Bob Lee,bob.lee@example.com,south,2023/07/29,Pending,-1,258.53
+181,john smith,john.smith@example.com,,04/12/2024,pending,5,495.19
+182,  Bob Lee,,north,27-02-2023,pending,1,140.81
+183,omar hassan,omar.hassan@example.com,north,2023-09-29,Pending,5,116.09
+184,Emma Wright,emma.wright@example.com,south,06/18/2023,active,-1,465.06
+185,Mary Jones,mary.jones@example.com,west ,30-05-2023,,-1,334.69
+186,Lucia Moreno,lucia.moreno@example.com,Central,07/15/2024,,-1,391.02
+187,Wei Zhang,wei.zhang@example.com,,2023/09/17,pending,-1,341.02
+188,Wei Zhang,,north,06-11-2023,active,,242.38
+189,Carlos Ruiz,carlos.ruiz@example.com,EAST,2024-01-30,INACTIVE,3,47.21
+190,david Kim,david.kim@example.com,north,2024-08-19,pending,1,330.37
+191,Wei Zhang,wei.zhang@example.com,South,05/27/2023,Pending,-1,96.9
+192,Emma Wright,,EAST,03-04-2023,Pending,5,102.7
+193,Lucia Moreno,lucia.moreno@example.com,South,02-05-2023,Pending,4,212.42
+194,MARY JONES,mary.jones@example.com,south,2023/05/28,inactive,5,127.05
+195,john smith,john.smith@example.com,EAST,2023/11/25,,3,349.46
+196,Carlos Ruiz,,,03/19/2023,inactive,1,320.34
+197,MARY JONES,mary.jones@example.com,north,2023/04/07,,1,244.91
+198,omar hassan,omar.hassan@example.com,EAST,07-04-2023,INACTIVE,5,173.95
+199,TOM HARDY,tom.hardy@example.com,Central,2023/12/17,inactive,3,
+200,Mary Jones,mary.jones@example.com,,30-05-2024,INACTIVE,2,437.12
+201,  Bob Lee,bob.lee@example.com,north,21-11-2023,active,1,68.15
+202,MARY JONES,mary.jones@example.com,,2024/07/21,pending,3,
+203,MARY JONES,mary.jones@example.com,west ,2024-05-01,,5,395.57
+204,david Kim,david.kim@example.com,South,2023/02/10,active,,314.51
+205,MARY JONES,mary.jones@example.com,,2023-04-14,,-1,187.59
+206,Wei Zhang,wei.zhang@example.com,Central,2024-03-07,active,,162.65
+207,MARY JONES,mary.jones@example.com,south,2024-06-18,Pending,4,413.25
+208,Emma Wright,emma.wright@example.com,south,2023/01/15,Active,,298.96
+209,Mary Jones,mary.jones@example.com,,2023-04-15,Pending,2,324.03
+210,omar hassan,,north,2023-05-05,Active,4,113.03
+211,sofia rossi,sofia.rossi@example.com,west ,2023-07-11,inactive,,186.11
+212,Alicia Cole,alicia.cole@example.com,Central,2024/07/24,pending,3,232.99
+213,MARY JONES,,north,2023-03-04,Active,5,442.25
+214,Nina Petrova,nina.petrova@example.com,Central,2023/06/19,pending,5,306.43
+215,Mary Jones,mary.jones@example.com,EAST,30-04-2023,active,-1,477.18
+216,Emma Wright,emma.wright@example.com,south,03-08-2024,INACTIVE,,149.73
+217,Ivan Petrov,ivan.petrov@example.com,north,01/16/2023,,4,302.56
+218,sara Ali,sara.ali@example.com,,01/21/2024,inactive,1,404.7
+219,Wei Zhang,wei.zhang@example.com,,2024-08-23,active,-1,147.82
+220,david Kim,david.kim@example.com,Central,2024/07/14,,5,176.69
+221,Emma Wright,emma.wright@example.com,west ,28-08-2023,,4,305.41
+222,Wei Zhang,wei.zhang@example.com,north,2024/01/30,,3,272.58
+223,sara Ali,sara.ali@example.com,,17-06-2024,Pending,4,443.12
+224,TOM HARDY,tom.hardy@example.com,west ,2023-07-16,active,3,94.44
+225,Carlos Ruiz,carlos.ruiz@example.com,,06/13/2024,,4,126.92
+226,  Bob Lee,bob.lee@example.com,north,2024-04-19,pending,3,82.3
+227,Ivan Petrov,ivan.petrov@example.com,north,02/04/2023,Active,4,495.25
+228,TOM HARDY,tom.hardy@example.com,Central,2023/10/14,,5,53.07
+229,david Kim,,Central,08-02-2023,,1,104.49
+230,MARY JONES,mary.jones@example.com,north,2024/04/14,,1,473.87
+231,Emma Wright,emma.wright@example.com,South,03-04-2023,pending,1,162.76
+232,ALICIA COLE,alicia.cole@example.com,,04/04/2024,active,,188.6
+233,MARY JONES,mary.jones@example.com,Central,2023-03-02,INACTIVE,-1,
+234,Mary Jones,mary.jones@example.com,north,29-05-2023,Active,,378.7
+235,sofia rossi,sofia.rossi@example.com,south,2023/04/18,,1,165.34
+236,Emma Wright,emma.wright@example.com,EAST,09/02/2023,inactive,4,457.58
+237,TOM HARDY,tom.hardy@example.com,north,2023-08-14,active,,467.32
+238,Lucia Moreno,lucia.moreno@example.com,South,2023-01-23,inactive,-1,228.91
+239,  Bob Lee,bob.lee@example.com,north,12/06/2023,active,4,369.35
+240,david Kim,david.kim@example.com,south,02-06-2023,,1,212.04
+241,Nina Petrova,nina.petrova@example.com,north,21-06-2023,,4,248.05
+242,ALICIA COLE,alicia.cole@example.com,north,2023/08/05,pending,-1,418.46
+243,Carlos Ruiz,,,09/02/2023,INACTIVE,2,53.29
+244,Nina Petrova,nina.petrova@example.com,EAST,2023/01/17,pending,2,404.48
+245,ALICIA COLE,alicia.cole@example.com,Central,2024/01/04,active,3,25.07
+246,david Kim,david.kim@example.com,EAST,08/24/2023,Pending,1,102.37
+247,Mary Jones,mary.jones@example.com,Central,07/30/2023,active,-1,308.15
+248,Nina Petrova,nina.petrova@example.com,west ,2023/03/09,Active,5,421.33
+249,john smith,john.smith@example.com,Central,2024-05-19,,4,12.65
+250,Wei Zhang,wei.zhang@example.com,west ,30-07-2024,active,5,23.15
+251,john smith,john.smith@example.com,north,2024-04-01,Pending,-1,64.78
+252,john smith,john.smith@example.com,,04-03-2023,Pending,4,437.04
+253,john smith,john.smith@example.com,EAST,2023-09-07,Active,1,115.73
+254,Ben Turner,ben.turner@example.com,north,04/09/2023,Active,,134.4
+255,ALICIA COLE,,west ,2024-03-30,pending,2,178.6
+256,  Bob Lee,bob.lee@example.com,south,22-08-2024,inactive,2,59.47
+257,sara Ali,,west ,2024/08/09,active,-1,374.56
+258,Emma Wright,emma.wright@example.com,,2024-06-22,Pending,-1,200.84
+259,Emma Wright,emma.wright@example.com,west ,2023/12/10,,3,422.3
+260,Ben Turner,ben.turner@example.com,north,06/13/2024,INACTIVE,2,479.14
+11,Lucia Moreno,lucia.moreno@example.com,Central,31-01-2024,pending,2,16.17
+51,Mary Jones,mary.jones@example.com,,11/12/2023,Pending,-1,491.31
+101,Lucia Moreno,lucia.moreno@example.com,South,05-03-2023,,5,101.5
